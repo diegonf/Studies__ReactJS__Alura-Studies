@@ -12,7 +12,7 @@ O objetivo desse projeto foi inciar os conhecimentos em React, trabalhando com c
 * Adição de tarefas com tempo de execução;
 * Escolha da tarefa a ser executada na lista de tarefas;
 * Cronometro com botão de iniciar tarefa;
-* Estilização automática de tarefa concluiída ao fim da contagem do cronometro;
+* Estilização automática de tarefa concluída ao fim da contagem do cronometro;
 
 ## Ferramentas utilizadas
 * Create-react-app com template typescript
@@ -23,7 +23,7 @@ O objetivo desse projeto foi inciar os conhecimentos em React, trabalhando com c
 * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 * ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-* ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ## Autores
 | [<img src="https://avatars.githubusercontent.com/u/97759524?v=4" width=115><br><sub>Diego Ferreira</sub>](https://github.com/diegonf) | 
