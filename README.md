@@ -16,7 +16,7 @@ O objetivo desse projeto foi inciar os conhecimentos em React, trabalhando com c
 
 ## Ferramentas utilizadas
 * Create-react-app com template typescript
-* Vercel para publica~çao do projeto
+* Vercel para publicar projeto
 
 ## Tecnologias utilizadas
 * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
